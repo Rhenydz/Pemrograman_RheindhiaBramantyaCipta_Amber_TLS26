@@ -1,7 +1,8 @@
 #include<iostream>
-#include<string>
 using namespace std;
+
 string pesan,hasil="";
+
 int main(){
     cout << "Masukkan pesan rahasia: ";
     cin>>pesan;
